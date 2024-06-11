@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgb(235, 244, 235);
+}
+section{
+  margin: 0 10px;
+  
+}
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  margin: 40px 0;
+  color: rgb(44, 27, 27);
+}
+.card{
+  background-color: wite;
+  color: black;
+  
+}
+#labels{
+  display: block;
+}
+#form{
+background-color:rgb(105, 206, 105) ;
+  padding: 30px 20px;
+  width: 500px;
+  margin: 50px auto;
+  height: auto;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+  border: 2px solid black;
+  border-radius: 10px;
+
+}
+button{
+width: 60px;
+height: auto;
+border-radius: 5px;
+
+}
+.form_controll{
+text-align: left;
+margin-bottom: 20px;
+}
